@@ -5,8 +5,8 @@ This repository contains a **single Jupyter notebook** implementing a full pipel
 ```
 Ames House pricing prediction/
 ├── data/                  # Raw dataset files (train.csv, test.csv)
-├── notebooks/             # Your main Kaggle-exported notebook
-│   └── Ames_house_prediction.ipynb
+├── Submission / 
+├── Ames_house_prediction.ipynb       # Your main Kaggle-exported notebook
 ├── requirements.txt       # Python dependencies               
 └── README.md              # Project overview and instructions
 ```
