@@ -3,7 +3,7 @@ This repository contains a **single Jupyter notebook** implementing a full pipel
 ## 📦 Project Structure
 
 ```
-Ames House pricing prediction/
+Ames-House-pricing/
 ├── data/                  # Raw dataset files (train.csv, test.csv)
 ├── Submission / 
 ├── Ames_house_prediction.ipynb       # Your main Kaggle-exported notebook
@@ -17,7 +17,7 @@ Ames House pricing prediction/
 
    ```bash
    git clone https://github.com/Sirvikkaz/Ames-House-pricing.git
-   cd Ames House pricing prediction
+   cd Ames-House-pricing
    ```
 2. **Install dependencies**
 
